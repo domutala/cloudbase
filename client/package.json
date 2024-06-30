@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.1.0",
+    "@nuxtjs/i18n": "^8.3.1",
+    "@nuxtjs/svg-sprite": "^1.0.2",
+    "@pinia/nuxt": "^0.5.1",
+    "animate.css": "^4.1.1",
+    "node-forge": "^1.3.1",
+    "nuxt": "^3.12.2",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@pinia-plugin-persistedstate/nuxt": "^1.2.0",
+    "@types/node-forge": "^1.3.11",
+    "dayjs-nuxt": "^2.1.9",
+    "dotenv": "^16.4.5",
+    "sass": "^1.72.0",
+    "serve-handler": "^6.1.5",
+    "typescript": "^5.4.3",
+    "vuetify-nuxt-module": "^0.14.1"
+  }
+}

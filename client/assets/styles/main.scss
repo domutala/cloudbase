@@ -1,0 +1,35 @@
+@import "./v-bottom-sheet";
+
+html,
+body {
+  overflow: auto;
+  min-height: 100lvh;
+
+  // ::-webkit-scrollbar {
+  //   width: 0px;
+  //   background: transparent;
+  // }
+  background-color: rgba(var(--v-theme-foreground));
+}
+
+.v-application {
+  background: unset !important;
+}
+
+svg {
+  fill: currentColor;
+}
+
+i {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(var(--v-theme-primary));
+}
+
+@font-face {
+  font-family: "Berlin";
+  src: url("../fonts/Berlin.ttf");
+}

@@ -1,0 +1,13 @@
+.v-overlay__content.v-bottom-sheet__content {
+  overflow: hidden !important;
+  max-height: 80lvh !important;
+  max-width: 450px !important;
+  border-top-right-radius: 0.6em !important;
+  border-top-left-radius: 0.6em !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.v-overlay__scrim {
+  opacity: 0.1 !important;
+}

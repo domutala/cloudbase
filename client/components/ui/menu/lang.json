@@ -1,0 +1,25 @@
+{
+  "fr": {
+    "profile": {
+      "title": "Modfifier votre profil"
+    },
+    "share": {
+      "title": "Partager"
+    },
+    "password": {
+      "title": "Changer code pin"
+    }
+  },
+
+  "en": {
+    "profile": {
+      "title": "Update your profile"
+    },
+    "share": {
+      "title": "Share"
+    },
+    "password": {
+      "title": "Update pin"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "fr": {
+    "title": "Changer le thème",
+    "dark": "Sombre",
+    "light": "Claire",
+    "default": "Par défaut"
+  },
+
+  "en": {
+    "title": "Change theme",
+    "dark": "Dark",
+    "light": "Light",
+    "default": "Default"
+  }
+}
